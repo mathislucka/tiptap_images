@@ -1,29 +1,5 @@
 # tiptap_images
 
-## Project setup
-```
-npm install
-```
+This is a small proof of concept for uploading images asynchronously to a remote server using tiptap-editor (scrumpy/tiptap).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+It is based on a gist from @slava-vishnyakov (https://gist.github.com/slava-vishnyakov/16076dff1a77ddaca93c4bccd4ec4521) as well as the prosemirror [image upload example](https://prosemirror.net/examples/upload/).
